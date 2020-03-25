@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 5615d05061493a74ebac5534a794a69a
+timeCreated: 1528921980
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "explos\xE3o-verde_0"
+    21300002: "explos\xE3o-verde_1"
+    21300004: "explos\xE3o-verde_2"
+    21300006: "explos\xE3o-verde_6"
+    21300008: "explos\xE3o-verde_7"
+    21300010: "explos\xE3o-verde_9"
+    21300012: "explos\xE3o-verde_10"
+    21300014: "explos\xE3o-verde_11"
+    21300016: "explos\xE3o-verde_12"
+    21300018: "explos\xE3o-verde_13"
+    21300020: "explos\xE3o-verde_14"
+    21300022: "explos\xE3o-verde_15"
+    21300024: "explos\xE3o-verde_16"
+    21300026: "explos\xE3o-verde_17"
+    21300028: "explos\xE3o-verde_18"
+    21300030: "explos\xE3o-verde_19"
+    21300032: "explos\xE3o-verde_20"
+    21300034: "explos\xE3o-verde_21"
+    21300036: "explos\xE3o-verde_22"
+    21300038: "explos\xE3o-verde_23"
+    21300040: "explos\xE3o-verde_24"
+    21300042: "explos\xE3o-verde_25"
+    21300044: "explos\xE3o-verde_26"
+    21300046: "explos\xE3o-verde_27"
+    21300048: "explos\xE3o-verde_28"
+    21300050: "explos\xE3o-verde_29"
+    21300052: "explos\xE3o-verde_30"
+    21300054: "explos\xE3o-verde_31"
+    21300056: "explos\xE3o-verde_32"
+    21300058: "explos\xE3o-verde_33"
+    21300060: "explos\xE3o-verde_34"
+    21300062: "explos\xE3o-verde_35"
+    21300064: "explos\xE3o-verde_3"
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "explos\xE3o-verde_2"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 40
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "explos\xE3o-verde_14"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 90
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "explos\xE3o-verde_15"
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 80
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "explos\xE3o-verde_0"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 10
+        width: 218
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "explos\xE3o-verde_1"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 61
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "explos\xE3o-verde_3"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 62
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

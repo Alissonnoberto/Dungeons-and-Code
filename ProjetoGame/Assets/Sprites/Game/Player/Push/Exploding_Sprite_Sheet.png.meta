@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: f503d4004b277ea4185afc396db3ac54
+timeCreated: 1528832426
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Exploding_Sprite_Sheet_0
+    21300002: Exploding_Sprite_Sheet_1
+    21300004: Exploding_Sprite_Sheet_2
+    21300006: Exploding_Sprite_Sheet_3
+    21300008: Exploding_Sprite_Sheet_4
+    21300010: Exploding_Sprite_Sheet_5
+    21300012: Exploding_Sprite_Sheet_6
+    21300014: Exploding_Sprite_Sheet_7
+    21300016: Exploding_Sprite_Sheet_8
+    21300018: Exploding_Sprite_Sheet_9
+    21300020: Exploding_Sprite_Sheet_10
+    21300022: Exploding_Sprite_Sheet_11
+    21300024: Exploding_Sprite_Sheet_12
+    21300026: Exploding_Sprite_Sheet_13
+    21300028: Exploding_Sprite_Sheet_14
+    21300030: Exploding_Sprite_Sheet_15
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 512
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1552
+        width: 321
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1552
+        width: 316
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1552
+        width: 312
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1554
+        width: 308
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 1559
+        width: 304
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1051
+        width: 304
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1056
+        width: 316
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1057
+        width: 328
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1057
+        width: 340
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 1060
+        width: 361
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 551
+        width: 369
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 543
+        width: 367
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 541
+        width: 363
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 539
+        width: 351
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 530
+        width: 341
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exploding_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 13
+        width: 334
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
